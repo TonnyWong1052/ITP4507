@@ -13,7 +13,7 @@ building id (input building id=* to display all building records)
 - Redo the last undone command
 - Show undo/redo list
 
-## Design patterns for your new system
+## Design patterns for the new system
 - Command pattern to provide the “add building”, “display buildings”, “modify building”, “add
 room”, "delete room", "modify room", “undo”, “redo” and “list undo/redo list” functions
 - Factory pattern or Abstract Factory Pattern to create different kinds of Command objects
