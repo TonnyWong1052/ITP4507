@@ -1,6 +1,6 @@
 # ITP4507 - Contemporary Topics in Software Engineering
 
-> ITP114105 Software engineering (Tuen Mun) Year2 21/22
+> ITP114105 Software engineering (Tuen Mun) Year2 2022/11
 > programming language - JAVA
 
 ## Features
