@@ -3,6 +3,10 @@
 > ITP114105 Software engineering (Tuen Mun) Year2 2022/11
 > programming language - JAVA
 
+## Class diagram
+![Class diagram](https://raw.githubusercontent.com/TonnyWong1052/ITP4507/main/classdiagram.png)
+
+
 ## Features
 - Create a building record (Apartment, House or any new kind of Building in the coming future).
 - Modify a building record (Apartment, House or any new kind of Building in the coming future)
